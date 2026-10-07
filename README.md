@@ -1,3 +1,4 @@
 # GitHub-class
 This is first GitHub class
-author - Atharv Jaiswal
+<br>
+Author - Atharv Jaiswal
